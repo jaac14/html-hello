@@ -1,0 +1,70 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(224, 216, 216);
+    font-family: sans-serif;
+    margin: 0 0 0 0;
+}
+
+main {
+    display: block;
+
+
+}
+
+
+.title {
+
+    width: 100%;
+    background-color: white;
+    height: 3rem;
+
+
+}
+
+.title h1 {
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+main section {
+
+    margin-top: 3rem;
+}
+
+
+
+
+section div {
+    display: block;
+    background-color: white;
+    width: 40%;
+    margin: 3rem auto;
+
+}
+
+section div img {
+    width: 100%;
+
+}
+
+.alinear {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 95%;
+    border-bottom: 1px rgba(142, 141, 141) solid;
+    margin-bottom: 3px;
+}
+
+.parrafo {
+    width: 95%;
+    border-top: 1px rgba(142, 141, 141) solid;
+}
+.parrafo p{
+    margin-top: 5px;
+}
